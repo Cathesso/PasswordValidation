@@ -1,4 +1,4 @@
-##Flow:
+## Flow:
 * Give a password (String variable: GivenPassword)
 * Check if GivenPassword.length == ExpectedPassword.length
 * Check if GivenPassword has numbers inside (0-9)
