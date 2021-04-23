@@ -8,6 +8,6 @@
 - [ ] Überprüfe erst die Länge des Passworts und dann, ob Zahlen enthalten sind
 ### Bonus:
 
-- [ ] Checke ob kleine/große Buchstaben enthalten sind
+- [ ] Checke, ob kleine/große Buchstaben enthalten sind
 - [ ] Schaffe die Möglichkeit, eine Liste von Passwörtern zu validieren
 - [ ] Schaue dir auf GitHub Labs weitere Einsteigervideos an
